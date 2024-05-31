@@ -1,0 +1,43 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://media.discordapp.net/attachments/1245373185738932245/1246078064975282216/SocialMediaBackground.webp?ex=665b1421&is=6659c2a1&hm=5aa47b51cf77ad22d2de4194c28d29627c1866fc7cbd83b11c132dd244e80f57&=&format=webp&width=468&height=468');
+}
+
+.button-container {
+  text-align: center;
+  margin-top: 50px;
+  background-color: #555555;
+  padding: 50px;
+  border-radius: 7px;
+  margin: 20px;
+  height: 110px;
+  height: 120px;
+}
+
+.pdf-button {
+  display: inline-flex;
+  align-items: center;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #333333;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  height: 100px;
+}
+
+.pdf-button:hover {
+  background-color: #555555;
+  border:  solid 2px #ffffff;
+}
+
+.pdf-icon {
+  margin-right: 10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+}

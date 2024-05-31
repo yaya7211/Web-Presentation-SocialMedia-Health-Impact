@@ -1,0 +1,57 @@
+.introductions-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #646769;
+    border-radius: 10px;
+}
+  
+.introduction {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+    width: 80%;
+    max-width: 800px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+  
+.introduction:hover {
+    transform: scale(1.05);
+}
+
+.introduction:hover .introduction-text {
+    transform: scale(1.07);
+}
+  
+.introduction-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-right: 20px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+  
+.introduction-text {
+    transition: transform 0.3s ease;
+    text-align: justify;
+    padding: 20px;
+}
+  
+.introduction-title {
+    margin: 0 0 10px;
+    font-size: 1.5rem;
+    color: #333;
+}
+  
+.introduction p {
+    margin: 0;
+    font-size: 1.2rem;
+    color: #0e4464;
+}
