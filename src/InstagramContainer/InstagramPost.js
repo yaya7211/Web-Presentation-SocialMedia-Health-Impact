@@ -6,10 +6,10 @@ const InstagramPost = ({ avatar, username, image, likes, caption, comments }) =>
   return (
     <div className="instagram-post-container">
       <div className="instagram-header">
-        <img className="instagram-avatar" src={avatar} alt={`${username}'s avatar`} />
+        <img className="instagram-avatar" src={process.env.PUBLIC_URL + avatar} alt={`${username}'s avatar`} />
         <span className="username">{username}</span>
       </div>
-      <img className="instagram-image" src={image} alt="Post content" />
+      <img className="instagram-image" src={process.env.PUBLIC_URL + image} alt="Post content" />
       <div className="instagram-footer">
         <div className="instagram-actions">
           <div>  

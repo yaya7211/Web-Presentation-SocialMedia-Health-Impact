@@ -7,7 +7,7 @@ const ExplanationsSection = ({explanations}) => {
     <section className="explanations-section">
       {explanations.map((explanation, index) => (
         <div key={index} className="explanation">
-          <img src={explanation.image} alt={explanation.title} className="explanation-image" />
+          <img src={process.env.PUBLIC_URL + explanation.image} alt={explanation.title} className="explanation-image" />
           <div className="explanation-text">
             <h2 className="explanation-title">{explanation.title}</h2>
             <p>{explanation.text}</p>

@@ -13,7 +13,7 @@ const MessengerConversations = ({ conversations }) => {
             key={conversation.id}
             className={`conversation-item ${selectedConversation.id === conversation.id ? 'active' : ''}`}
             onClick={() => setSelectedConversation(conversation)}>
-            <img className="conversation-avatar" src={conversation.avatar} alt="Avatar" />
+            <img className="conversation-avatar" src={process.env.PUBLIC_URL + conversation.avatar} alt="Avatar" />
             <div className="conversation-info">
               <span className="conversation-name">{conversation.name}</span>
             </div>

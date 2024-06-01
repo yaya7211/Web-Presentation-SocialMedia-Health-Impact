@@ -1,9 +1,9 @@
 {
     "postsData": [
         {
-            "avatar": "./Img/DALLE_2024-05-30_23.20.10_-_A_simple_and_sober_profile_picture_icon_for_a_sociologist._The_icon_features_a_minimalist_design_of_a_persons_head_with_glasses_and_a_book_or_data_ch.webp",
+            "avatar": "/Img/DALLE_2024-05-30_23.20.10_-_A_simple_and_sober_profile_picture_icon_for_a_sociologist._The_icon_features_a_minimalist_design_of_a_persons_head_with_glasses_and_a_book_or_data_ch.webp",
             "username": "enquête_groupe1",
-            "image": "./Img/rapport_entre_lage_et_le_temps_decran_11.jpg",
+            "image": "/Img/rapport_entre_lage_et_le_temps_decran_11.jpg",
             "likes": 161,
             "caption": "Les usagers utilisant plus les réseaux sociaux ont-ils plus l'impression d'un impact sur leur santé mentale ? (par tranches d'âge)",
             "comments": [
@@ -18,9 +18,9 @@
             ]
         },
         {
-            "avatar": "./Img/DALLE_2024-05-30_23.20.10_-_A_simple_and_sober_profile_picture_icon_for_a_sociologist._The_icon_features_a_minimalist_design_of_a_persons_head_with_glasses_and_a_book_or_data_ch.webp",
+            "avatar": "/Img/DALLE_2024-05-30_23.20.10_-_A_simple_and_sober_profile_picture_icon_for_a_sociologist._The_icon_features_a_minimalist_design_of_a_persons_head_with_glasses_and_a_book_or_data_ch.webp",
             "username": "enquête_groupe1",
-            "image": "./Img/2ec1ef66-9eb0-49d8-a5e7-c854ff2d367a.png",
+            "image": "/Img/2ec1ef66-9eb0-49d8-a5e7-c854ff2d367a.png",
             "likes": 161,
             "caption": "Durée à partir de laquelle on considère que l'usage des réseaux sociaux est excessif (en h/j)",
             "comments": [
@@ -35,9 +35,9 @@
             ]
         },
         {
-            "avatar": "./Img/DALLE_2024-05-30_23.20.10_-_A_simple_and_sober_profile_picture_icon_for_a_sociologist._The_icon_features_a_minimalist_design_of_a_persons_head_with_glasses_and_a_book_or_data_ch.webp",
+            "avatar": "/Img/DALLE_2024-05-30_23.20.10_-_A_simple_and_sober_profile_picture_icon_for_a_sociologist._The_icon_features_a_minimalist_design_of_a_persons_head_with_glasses_and_a_book_or_data_ch.webp",
             "username": "enquête_groupe1",
-            "image": "./Img/1_rapport_entre_lage_et_le_reseaux_le_plus_utilise.png",
+            "image": "/Img/1_rapport_entre_lage_et_le_reseaux_le_plus_utilise.png",
             "likes": 73,
             "caption": "Quel réseau social utilisez-vous le plus ? (Par tranche d'âge)",
             "comments": [
@@ -54,15 +54,15 @@
     ],
     "tweetsData": [
         {
-            "avatar": "./Img/LOGO_MEDIAMETRIE_NOIR.png",
+            "avatar": "/Img/LOGO_MEDIAMETRIE_NOIR.png",
             "username": "Médiamétrie",
             "handle": "Enquête",
             "timestamp": "il y a 1 an",
             "content": "En France, les 15-24 ans sont les plus gros consommateurs d’internet avec 4 heures par jour en moyenne dont 93% sur smartphone.",
-            "images": ["./Img/70840257-49367730.png"],
+            "images": ["/Img/70840257-49367730.png"],
             "replies": [
                 {
-                    "avatar": "./Img/5Kngq4vxIAdfM-ekLYIq9RHWSs3KdJhx1w3WjVaOcwVnFfnkTd04rIxeYyTc28K8KicI8J-kU_Us900-c-k-c0x00ffffff-no-rj.png",
+                    "avatar": "/Img/5Kngq4vxIAdfM-ekLYIq9RHWSs3KdJhx1w3WjVaOcwVnFfnkTd04rIxeYyTc28K8KicI8J-kU_Us900-c-k-c0x00ffffff-no-rj.png",
                     "username": "28 minutes - Arte",
                     "handle": "Gerald_Bronner",
                     "timestamp": "il y a 7 mois",
@@ -73,28 +73,28 @@
             ]
         },
         {
-            "avatar": "./Img/5Kngq4vxIAdfM-ekLYIq9RHWSs3KdJhx1w3WjVaOcwVnFfnkTd04rIxeYyTc28K8KicI8J-kU_Us900-c-k-c0x00ffffff-no-rj.png",
+            "avatar": "/Img/5Kngq4vxIAdfM-ekLYIq9RHWSs3KdJhx1w3WjVaOcwVnFfnkTd04rIxeYyTc28K8KicI8J-kU_Us900-c-k-c0x00ffffff-no-rj.png",
             "username": "La civilisation du poisson rouge, petit traité sur le marché de l'attention",
             "handle": "Bruno_Patino",
             "timestamp": "il y a 5 ans",
             "content": "En m’appuyant sur le calcul effectué par Google pour évaluer la durée d'attention moyenne de la génération des millénaires, je vous informe que leur durée d’attention est de neuf secondes, alors que pour un poisson rouge c’est 8 secondes. Impressionnant non? ",
             "images": [
-                "./Img/istockphoto-477727619-612x612.jpg"
+                "/Img/istockphoto-477727619-612x612.jpg"
             ],
             "replies": [
                 {
-                    "avatar": "./Img/ExpressVPN-logo.png",
+                    "avatar": "/Img/ExpressVPN-logo.png",
                     "username": "ExpressVPN",
                     "handle": "enquete_en_ligne",
                     "timestamp": "il y a 3 ans",
                     "content": "Cette enquête a été menée auprès de 1 500 personnes représentatives de la génération Z (âgés de 16 à 24 ans) en France, en Allemagne et aux États-Unis, portant l’enquête mondiale à 4 500 personnes au total.",
                     "images": [
-                        "./Img/data_etude_ExpressVPN.jpg"
+                        "/Img/data_etude_ExpressVPN.jpg"
                     ],
                     "replies": []
                 },
                 {
-                    "avatar": "./Img/V15RgxV9_400x400.png",
+                    "avatar": "/Img/V15RgxV9_400x400.png",
                     "username": "MILDECA",
                     "handle": "barometre",
                     "timestamp": "il y a 3 ans",
@@ -103,7 +103,7 @@
                     "replies": []
                 },
                 {
-                    "avatar": "./Img/1200px-UniversitC3A9_d27C389tat_de_la_Caroline_du_Nord_28logo29.png",
+                    "avatar": "/Img/1200px-UniversitC3A9_d27C389tat_de_la_Caroline_du_Nord_28logo29.png",
                     "username": "Université de Caroline du Nord aux Etats-Unis",
                     "handle": "Neuroscientifiques",
                     "timestamp": "il y a 1 an",
@@ -112,7 +112,7 @@
                     "replies": []
                 },
                 {
-                    "avatar": "./Img/5Kngq4vxIAdfM-ekLYIq9RHWSs3KdJhx1w3WjVaOcwVnFfnkTd04rIxeYyTc28K8KicI8J-kU_Us900-c-k-c0x00ffffff-no-rj.png",
+                    "avatar": "/Img/5Kngq4vxIAdfM-ekLYIq9RHWSs3KdJhx1w3WjVaOcwVnFfnkTd04rIxeYyTc28K8KicI8J-kU_Us900-c-k-c0x00ffffff-no-rj.png",
                     "username": "28 minutes - Arte",
                     "handle": "Severine_Erhel",
                     "timestamp": "il y a 7 mois",
@@ -127,112 +127,112 @@
         {
             "id": 1,
             "name": "Quitter les réseaux",
-            "avatar": "./Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
+            "avatar": "/Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
             "messages": [
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Salut, j’ai un devoir à faire sur les réseaux sociaux et j’ai pensé à toi, tu serais d’accord pour que je te pose quelques questions ?",
                     "timestamp": "12h30",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
                     "content": "Oui, bien sûr, dis-moi ! :)",
                     "timestamp": "12h31",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Merci, ça va beaucoup m’aider",
                     "timestamp": "12h33",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Du coup, première question : comment décrirais-tu ton utilisation des réseaux sociaux ?",
                     "timestamp": "12h33",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
                     "content": "Alors, déjà, je ne suis pas très présente sur les réseaux. À vrai dire, aujourd’hui, je n’utilise plus que WhatsApp et, selon moi, ce n’est même pas un réseau social parce que je m’en sers uniquement comme messagerie instantanée. De plus, je ne m’y connecte que lorsque j’ai des messages ou lorsque j’ai besoin d’en envoyer, autant dire que mon utilisation des réseaux est plutôt raisonnée.",
                     "timestamp": "12h40",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Du coup, tu es plutôt opposée aux réseaux sociaux ?",
                     "timestamp": "12h42",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
                     "content": "Non, au contraire, même si je n’utilise pas d’autres réseaux, je pense sincèrement que ce sont des outils formidables ! Grâce à eux, on peut retrouver des personnes qui sont loin ou que l’on ne peut plus voir de manière très simple ou bien créer de nouvelles relations sociales. Il y a aussi une certaine forme de beauté et d’art sur des réseaux comme Instagram ou Pinterest, dans la manière de présenter sa page et d’harmoniser son profil. Instagram peut être une source d’inspiration. À titre personnel, je suivais des comptes photos qui me donnaient des idées pour mes propres prises. De même, j’ai regardé des films à la suite de posts Instagram qui me les suggéraient.",
                     "timestamp": "12h51",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Tu disais que tu n'avais plus que WhatsApp, mais tu dis que tu suivais des comptes Instagram, tu as arrêté ?",
                     "timestamp": "12h53",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
                     "content": "Oui, bien qu’Instagram ait beaucoup d’avantages, j’ai décidé de supprimer mon compte, sûrement de manière définitive… En fait, celui-ci s’est très vite montré toxique. Je pense que le principal danger des réseaux, c’est leur effet miroir. Je veux dire par là qu’ils nous renvoient une image de nous qui peut parfois être blessante. Sur les réseaux, on trouve très facilement du contenu mettant en avant des corps répondant à des critères esthétiques dans lesquels je ne m’incluais pas et qui me faisaient me sentir mal. Même en quittant la notion du corps, il y avait cette pensée de compétition et le besoin d’être reconnue, le besoin de recevoir un avis positif et des likes. Le problème, c’est que lorsque cette reconnaissance n’était pas là, un sentiment de solitude s’installait.",
                     "timestamp": "13h04",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Et quitter définitivement les réseaux était la seule solution ?",
                     "timestamp": "13h05",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
                     "content": "Oui, parce que le pire, c’est ce côté addictif ! Le temps perdu sur les réseaux était devenu trop important et me faisait finalement plus de mal que de bien. Je ne regrette pas d’avoir coupé avec Instagram, car je sais qu’y retourner pourrait ré-entraîner du malaise et de la solitude, voire du stress et de la culpabilité.",
                     "timestamp": "13h10",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Ton expérience personnelle avec les réseaux a finalement mené à une forme de mal-être, tu penses que ton cas peut se généraliser auprès des jeunes ? Est-ce que les réseaux sont, d’après toi, responsables du mal-être de la jeunesse ?",
                     "timestamp": "13h13",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
                     "content": "Clairement ! Je pense sincèrement que les réseaux sont grandement responsables du mal-être chez les jeunes et de leur enfermement. Les réseaux facilitent tellement l’accès aux informations que la réalité peut être brutale et destinée à un public souvent trop sensible aux problèmes du monde. Le mal-être chez les jeunes est dû à la fois au mal extérieur transmis par les réseaux et à un mal-être intérieur en lien avec les addictions.",
                     "timestamp": "13h20",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "D’après toi, est-ce que ces problèmes peuvent être résolus à travers l’éducation et la sensibilisation aux risques des réseaux sociaux ?",
                     "timestamp": "13h22",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
                     "content": "Selon moi, il est évident que les réseaux sociaux sont des outils géniaux et qui vont avoir une place importante dans nos vies, mais nous n’y sommes pas assez préparés. Bien que je n’aie pas d’idées précises de choses à faire au sein de l’éducation, la situation actuelle n’est pas suffisante. Seul, c’est trop dur de se limiter et de contrôler son utilisation des réseaux. Face aux fakes news, par exemple, les populations les plus jeunes ne sont pas assez éduquées pour se protéger.",
                     "timestamp": "13h30",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Merci beaucoup, j’ai juste une dernière question : si tu avais un conseil à donner aux jeunes par rapport à leur utilisation des réseaux sociaux, que leur dirais-tu ?",
                     "timestamp": "13h32",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.55.24_-_A_very_simple_and_sober_icon_depicting_someone_leaving_social_media._The_icon_features_a_minimalist_figure_walking_away_from_a_smartphone_or_computer_.webp",
                     "content": "C’est compliqué parce que les solutions que j’ai appliquées sont vraiment radicales, mais si j’avais un conseil à partager aux jeunes sans qu’ils n’aient besoin de supprimer les réseaux, je leur dirais de ne pas se perdre sur les contenus généraux d’Instagram et de se limiter à des comptes qui les intéressent véritablement. Et lorsque des choses ne les intéressent pas, ils ne doivent pas hésiter à l’indiquer afin de faire le tri dans leur algorithme, car c’est comme ça qu’ils pourront se préserver des risques des réseaux sur leur santé mentale.",
                     "timestamp": "13h38",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "C’est tout bon, merci de bien avoir voulu répondre à mes questions, je supprimerai nos messages une fois le devoir rendue et tes informations seront anonymisées ;) ",
                     "timestamp": "13h40",
                     "sent": true
@@ -242,112 +242,112 @@
         {
             "id": 2,
             "name": "Militantisme sur les réseaux",
-            "avatar": "./Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
+            "avatar": "/Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
             "messages": [
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Bonjour, j’aimerais te poser quelques questions sur ton ressenti à propos des réseaux sociaux. Est-ce que ça te dérangerait?",
                     "timestamp": "09h00",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
                     "content": "Non pas du tout, je serais très heureuse d’y répondre.",
                     "timestamp": "20h02",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Merci beaucoup.",
                     "timestamp": "20h03",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Les résultats seront analysés et utilisés à des fins pédagogiques. Tes informations resteront strictement confidentielles et elles ne seront jamais partagées avec un tiers. Par ailleurs, nous les supprimerons à la fin de notre enquête.",
                     "timestamp": "20h04",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Quels réseaux sociaux utilises-tu le plus et pourquoi ? Quelles sont les principales activités que tu fais sur les réseaux sociaux (publier du contenu, s’informer, consommer du contenu) ?",
                     "timestamp": "20h04",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
                     "content": "Je publie principalement du contenu pour informer / alerter sur des situations mondiales (génocide en Palestine, au Congo, etc), mais aussi des photos de ma vie quotidienne. Je suis particulièrement active sur Instagram et twitter. J’utilise aussi ces plateformes pour m’informer parce que j’estime que l’information y est plus neutre (ou alors ouvertement engagée) et plus libre que sur les médias traditionnels (surtout la TV). Je pêche souvent les infos sur twitter, Instagram et YouTube.",
                     "timestamp": "20h07",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Les réseaux sociaux t’ont-ils aidé sur ta vie ? ( à maintenir ou à renforcer des relations personnelles ?) Comment ?",
                     "timestamp": "20h08",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
                     "content": "Oui ! J’ai rencontré certain.e.s ami.e.s grâce aux réseaux sociaux avec qui je suis proche aujourd’hui. Ça permet aussi de garder le contact et d’avoir des nouvelles des gens assez facilement.",
                     "timestamp": "20h10",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Par exemple, as-tu découvert des centres d’intérêt grâce aux réseaux sociaux ?",
                     "timestamp": "20h11",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
                     "content": "Oui ! J’y ai développé mon intérêt pour la lecture et les montages vidéos.",
                     "timestamp": "20h12",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "As-tu déjà essayé de réduire ou de limiter ton utilisation des réseaux sociaux ? Si oui, pourquoi, comment et as-tu réussi?",
                     "timestamp": "20h13",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
                     "content": "Oui ! J’ai une limite de temps sur les réseaux que j’utilise principalement (mais généralement ça ne fonctionne pas trop) car je voulais consacrer plus de temps à d’autres activités ou être plus productive. Parfois ça m’est arrivé d’arrêter temporairement (environ 2 semaines) ou complètement un réseau social sur lequel j’étais très active.",
                     "timestamp": "20h16",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "As-tu déjà été confronté à des cyberharcèlements ou des comportements toxiques en ligne ?",
                     "timestamp": "20h17",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
                     "content": "Oui plusieurs fois en ligne, particulièrement sur twitter. Récemment, j’ai fait un tweet sur une vidéo de squeeze qui m’a attiré les foudres de tout twitter. Une semaine après, je reçois encore des messages d’insultes ad hominem et de menaces dans mes DMs.",
                     "timestamp": "20h19",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "As-tu déjà ressenti de l’anxiété ou du stress en raison de ton utilisation des réseaux sociaux ?",
                     "timestamp": "20h20",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
                     "content": "Oui, notamment après les phases de cyberharcèlement mais bon on s’en remet.",
                     "timestamp": "20h21",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Quel rôle penses-tu que l’éducation et la sensibilisation peuvent jouer dans l’amélioration de l’utilisation des réseaux sociaux ?",
                     "timestamp": "20h22",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_17.09.00_-_A_very_simple_and_sober_icon_depicting_someone_protesting._The_icon_features_a_minimalist_figure_holding_a_protest_sign_or_placard._The_design_is_clea.webp",
                     "content": "Un rôle très très important !! Pour moi c’est essentiel de sensibiliser les gens sur les réseaux parce que l’information peut tourner très facilement et avoir un impact très positif (notamment concernant les crises humanitaires mondiales ou les enjeux nationaux). Les réseaux peuvent permettre d’organiser des rassemblements / manifestations , de diffuser l’info, de remplir des cagnottes et de développer un réseau de solidarité crucial.",
                     "timestamp": "20h25",
                     "sent": false
@@ -357,106 +357,106 @@
         {
             "id": 3,
             "name": "Esprit Critique",
-            "avatar": "./Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
+            "avatar": "/Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
             "messages": [
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Coucou, je voudrais te poser des questions à propos de ton utilisation des réseaux sociaux, c’est pour mon devoir de fin d’année. Tu serais ok pour m’aider ?",
                     "timestamp": "15h17",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
                     "content": "Évidemment, si tu veux commencer les questions, je suis prête.",
                     "timestamp": "15h18",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Parfait, dans ce cas, je commence : Quel rapport entretiens-tu avec les réseaux sociaux et quels types d’activités y pratiques-tu ?",
                     "timestamp": "15h19",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
                     "content": "Alors, je me sers des réseaux pour absolument tout ! C’est pour moi une source d’inspiration artistique, un moyen de me détendre, un outil d’apprentissage. Ça m’aide aussi à découvrir des produits de maquillage, et je communique avec ma classe sur des groupes. En bref, les réseaux ont une influence sur beaucoup de choses dans mon quotidien. En plus de répondre à mes centres d’intérêt, les réseaux sociaux en créent de nouveaux. Je regarde par exemple beaucoup de vidéos de crochet sur Instagram sans pour autant savoir en faire dans la vraie vie.",
                     "timestamp": "15h25",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Considères-tu que les réseaux sociaux ont eu un impact sur ta vie sociale ?",
                     "timestamp": "15h27",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
                     "content": "J’ai commencé les réseaux sociaux assez jeune, j’avais 12 ans, et au début, les réseaux sociaux m’ont permis de créer des liens dans un cadre différent de celui de l’école où je n’étais pas forcément à mon aise. Il y a eu des périodes où ma vie sociale en ligne m’a véritablement consolée de ma solitude dans la vie réelle. Mais par expérience, les liens qu’on tisse sur les réseaux ne sont pas faits pour durer et les personnes avec qui je parlais sur les réseaux lorsque j’étais au collège, je ne sais pas du tout ce qu’elles sont devenues.",
                     "timestamp": "15h35",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Quel regard critique pourrais-tu porter sur ta propre utilisation des réseaux sociaux et considères-tu qu’elle comporte des problèmes ?",
                     "timestamp": "15h37",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
                     "content": "Je considère avoir une consommation des réseaux assez saine, mais c’est parce que je me suis fixée des limites. Par exemple, je coupe les réseaux aux alentours de 22 h car c’est une heure où je suis plus fragile face à des posts déprimants qui pourraient m’influencer négativement sur mon moral. J’ai repris un rythme de sommeil plus sain et j’éloigne les effets néfastes d’Instagram le plus possible de moi. Je ne suis pas addict ou dépendante aux réseaux, je n’y vais vraiment que lorsqu’aucune autre activité ne se présente à moi.",
                     "timestamp": "15h45",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Tu viens de parler des effets néfastes d’Instagram, est-ce que d’après toi les réseaux sociaux sont dangereux et si oui, le sont-ils tous à la même échelle ?",
                     "timestamp": "15h47",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
                     "content": "Les réseaux sociaux ont à la fois des bienfaits et des inconvénients. Je pense que chaque réseau a un équilibre différent entre le positif et le négatif. Par exemple, Twitter est à mon sens parmi les pires réseaux, notamment parce que la modération est très limitée et les utilisateurs agressifs. J’ai toujours Twitter mais je ne l’utilise plus justement pour ces raisons-là. Instagram a ses défauts aussi, notamment en termes d’algorithme : un like sur la mauvaise publication et tu te retrouves coincé dans un cercle vicieux néfaste pour toi au point d’atteindre ta santé mentale.",
                     "timestamp": "15h55",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Penses-tu que l’accroissement du sentiment de mal-être observé chez les jeunes s’explique par leur lien avec les réseaux sociaux ?",
                     "timestamp": "15h57",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
                     "content": "Je pense qu’il y a des explications à chercher au niveau des réseaux sociaux mais pas seulement. Chez les mineurs, je pense que le véritable problème vient du manque d’esprit critique et de l’influence. Les réseaux offrent une image biaisée de la réalité avec des gens qui semblent meilleurs que soi et ça peut clairement mener à une perte de confiance.",
                     "timestamp": "16h03",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Donc les plus touchés sont pour toi les lycéens et collégiens. Est-ce que l’éducation et la sensibilisation ont un rôle à jouer pour réduire le mal-être des jeunes sur les réseaux ?",
                     "timestamp": "16h05",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
                     "content": "L’éducation, je ne pense pas. À part prendre les téléphones ou interdire les réseaux, ce n’est pas possible de contraindre quelqu’un à se séparer des réseaux s’il est déjà addict, quel que soit son âge. La sensibilisation, elle, ne suffit pas non plus si la personne ne se méfie pas et ne prend pas les décisions d’elle-même. Une nouvelle fois, seul l’esprit critique de la personne peut la préserver des dangers des réseaux et elle peut difficilement recevoir de l’aide extérieure. Sa gestion des réseaux est très personnelle et je ne pense pas qu’un individu extérieur puisse changer le comportement de quelqu’un sur les réseaux.",
                     "timestamp": "16h13",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Est-ce que tu as un conseil à donner aux jeunes qui utilisent activement les réseaux sociaux ?",
                     "timestamp": "16h15",
                     "sent": true
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_22.14.46_-_A_very_simple_and_sober_icon_depicting_a_phone_protected_by_a_shield._The_icon_features_a_minimalist_smartphone_with_a_shield_in_front_of_it._The_desi.webp",
                     "content": "Je pense que le plus important, c’est de faire l’effort de distinguer ce qui se passe sur les réseaux et la réalité en acceptant qu’il y ait des différences entre les deux. Faire attention aux traces qu’on laisse sur les réseaux car celles-ci sont définitives et ne pas se laisser coincer dans des cercles vicieux de déprime ou anxiogènes. Bref, se protéger et se préserver pour ne pas impacter négativement sa santé mentale.",
                     "timestamp": "16h23",
                     "sent": false
                 },
                 {
-                    "avatar": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
+                    "avatar": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp",
                     "content": "Merci beaucoup d’avoir répondu à mes questions c’était la dernière, je supprimerai cette discussion une fois mon devoir terminé et chacune de tes réponses sera anonymisé au sein du rendu final.",
                     "timestamp": "16h25",
                     "sent": true
@@ -468,29 +468,29 @@
         {
             "title": "Meta nuit à la santé ?",
             "text": "24 octobre 2023 : plus de 40 états américains ont poursuivi META (maison mère d’Instagram et de Facebook) accusée de nuire à la santé mentale et physique des jeunes utilisateurs",
-            "image": "./Img/DALLE_2024-05-30_22.24.27_-_A_very_simple_and_sober_icon_depicting_the_concept_of_a_social_media_app_causing_mental_illness._The_icon_features_a_minimalist_design_with_a_smartpho.webp"
+            "image": "/Img/DALLE_2024-05-30_22.24.27_-_A_very_simple_and_sober_icon_depicting_the_concept_of_a_social_media_app_causing_mental_illness._The_icon_features_a_minimalist_design_with_a_smartpho.webp"
         },
         {
             "title": "Hyperconnexion",
             "text": "Connexion permanente à Internet via des appareils numériques, caractéristique omniprésente de la vie moderne. Les avantages de cette connectivité constante sont indéniables : la communication est facilitée, l'information est facilement disponible en temps réel. Cependant, effets négatifs significatifs. Perte de concentration, isolement social, des troubles du sommeil et même une dépendance.",
-            "image": "./Img/DALLE_2024-05-30_22.44.58_-_A_very_simple_and_sober_icon_illustrating_hyperconnection._The_icon_features_a_minimalist_design_with_multiple_interconnected_devices_such_as_a_smartp.webp"
+            "image": "/Img/DALLE_2024-05-30_22.44.58_-_A_very_simple_and_sober_icon_illustrating_hyperconnection._The_icon_features_a_minimalist_design_with_multiple_interconnected_devices_such_as_a_smartp.webp"
         }
     ],
     "explanations": [
         {
             "title": "Interviews",
             "text": "Ce qui ressort des entretiens plus détaillés est que, malgré les profils différents dans la perception des réseaux (militant, sceptique, critique), chacun perçoit les réseaux comme un potentiel danger en raison de la difficulté de réguler l’utilisation.\t Ceci peut s’expliquer par l’usage de dark patterns, comme nous l’expliquent nos experts.\tEnfin, travailler sur l’impact de l’hyperconnexion sur notre génération nous a permis de prendre conscience des différents enjeux auxquels nous faisons face, notamment en termes de santé mentale. Dans le futur, nous sommes amenés à utiliser des écrans dans le cadre de nos vies professionnelles ; il est donc important d’être conscients des risques pour essayer d’entamer peut-être une régulation concernant notre consommation.",
-            "image": "./Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp"
+            "image": "/Img/DALLE_2024-05-30_16.58.07_-_A_very_simple_and_sober_microphone_icon._The_design_is_clean_and_minimalist_using_basic_lines_and_shapes_with_no_extra_details_or_colors_just_black_.webp"
         },
         {
             "title": "Jeunesse et insouciance",
             "text": "Grâce aux données recueillies à l’aide de nos formulaires, aux interviews conduites par les différents membres de l’équipe et aux différentes recherches que nous avons effectuées. Il semble y a avoir une forte corrélation entre le faite d’appartenir à la catégorie d’âge 14-18 et le fait d’avoir un temps d’écran quotidien très élevé (ou tout du moins plus élevé que la moyenne) et de ne pas ressentir d’impact particulier quant à son utilisation ainsi que de ne pas considérer cette utilisation comme problématique.",
-            "image": "./Img/DALLE_2024-05-31_11.55.39_-_A_simple_and_sober_icon_depicting_a_problem-free_child._The_icon_features_a_minimalist_design_of_a_smiling_child_with_open_arms_symbolizing_happiness.webp"
+            "image": "/Img/DALLE_2024-05-31_11.55.39_-_A_simple_and_sober_icon_depicting_a_problem-free_child._The_icon_features_a_minimalist_design_of_a_smiling_child_with_open_arms_symbolizing_happiness.webp"
         },
         {
             "title": "Conclusion",
             "text": "En somme, notre travail a pu montrer que jeunesse et hyperconnexion n’étaient pas dissocié bien au contraire.  Grace à notre sondage, nous avons mis en évidence que les tranches d’âge les plus jeunes sont les plus présentent sur les réseaux mais elle qu’elles étaient également celles qui constataient le moins de problème et de dangers. Pourtant à partir des études d’expert ainsi que des témoignages recueillis il est clair que les réseaux sociaux ne sont pas sans risques. Entre dépression, anxiété, baisse de l’estime de soi et isolement, nombreuses sont les potentielles abime que l’hyperconnexion et les réseaux sociaux peuvent entrainer.",
-            "image": "./Img/DALLE_2024-05-31_12.52.28_-_A_simple_and_sober_icon_depicting_a_conclusion._The_icon_features_a_minimalist_design_with_a_checkmark_or_an_endpoint_symbol_such_as_a_dot_or_a_flag_.webp"
+            "image": "/Img/DALLE_2024-05-31_12.52.28_-_A_simple_and_sober_icon_depicting_a_conclusion._The_icon_features_a_minimalist_design_with_a_checkmark_or_an_endpoint_symbol_such_as_a_dot_or_a_flag_.webp"
         }
     ]
 }

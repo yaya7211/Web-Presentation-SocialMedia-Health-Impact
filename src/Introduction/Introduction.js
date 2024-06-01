@@ -8,7 +8,7 @@ const Introduction = ({introductions}) => {
       <h1 id="introduction-title">De quoi parlons-nous ?</h1>
       {introductions.map((introduction, index) => (
         <div key={index} className="introduction">
-          <img src={introduction.image} alt={introduction.title} className="introduction-image" />
+          <img src={process.env.PUBLIC_URL +introduction.image} alt={introduction.title} className="introduction-image" />
           <div className="introduction-text">
             <h2 className="introduction-title">{introduction.title}</h2>
             <p>

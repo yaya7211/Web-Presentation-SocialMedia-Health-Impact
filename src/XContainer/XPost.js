@@ -6,7 +6,7 @@ const Xpost = ({ avatar, username, handle, timestamp, content, images, replies }
   return (
     <div className="tweet-container">
       <div className="tweet-header">
-        <img className="avatar" src={avatar} alt={`${username}'s avatar`} />
+        <img className="avatar" src={process.env.PUBLIC_URL + avatar} alt={`${username}'s avatar`} />
         <div className="user-info">
           <span className="username">{username}</span>
           <span className="handle">@{handle}</span>
@@ -18,7 +18,7 @@ const Xpost = ({ avatar, username, handle, timestamp, content, images, replies }
         {images && images.length > 0 && (
           <div className="images">
             {images.map((image, index) => (
-              <img key={index} className="image" src={image} alt={`Tweet content ${index + 1}`} />
+              <img key={index} className="image" src={process.env.PUBLIC_URL + image} alt={`Tweet content ${index + 1}`} />
             ))}
           </div>
         )}
