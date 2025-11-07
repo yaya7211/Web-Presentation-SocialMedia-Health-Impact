@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # or 'master', depending on your default branch
+      - main  # or 'master'
 
 jobs:
   build:
@@ -29,7 +29,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_branch: gh-pages  # or the branch you're using for GitHub Pages
-          folder: build            # the folder to deploy
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}  # Use the PAT here instead of the default GITHUB_TOKEN
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages  # The branch to deploy to
+          publish_dir: ./build      # The folder containing the build output
