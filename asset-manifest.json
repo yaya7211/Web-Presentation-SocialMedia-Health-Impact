@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/groupe1/static/css/main.a1f6446e.css",
-    "main.js": "/groupe1/static/js/main.16b219b6.js",
-    "static/media/SocialMediaBackground.webp": "/groupe1/static/media/SocialMediaBackground.730cbcd79618a7313af4.webp",
-    "index.html": "/groupe1/index.html",
-    "main.a1f6446e.css.map": "/groupe1/static/css/main.a1f6446e.css.map",
-    "main.16b219b6.js.map": "/groupe1/static/js/main.16b219b6.js.map"
+    "main.css": "/Web-Presentation-SocialMedia-Health-Impact/static/css/main.a1f6446e.css",
+    "main.js": "/Web-Presentation-SocialMedia-Health-Impact/static/js/main.d29cf162.js",
+    "static/media/SocialMediaBackground.webp": "/Web-Presentation-SocialMedia-Health-Impact/static/media/SocialMediaBackground.730cbcd79618a7313af4.webp",
+    "index.html": "/Web-Presentation-SocialMedia-Health-Impact/index.html",
+    "main.a1f6446e.css.map": "/Web-Presentation-SocialMedia-Health-Impact/static/css/main.a1f6446e.css.map",
+    "main.d29cf162.js.map": "/Web-Presentation-SocialMedia-Health-Impact/static/js/main.d29cf162.js.map"
   },
   "entrypoints": [
     "static/css/main.a1f6446e.css",
-    "static/js/main.16b219b6.js"
+    "static/js/main.d29cf162.js"
   ]
 }
